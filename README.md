@@ -1,0 +1,2 @@
+# LSTM_Multidimensional_prediction
+基于LSTM的多维数据预测，利用TensorFlow框架
